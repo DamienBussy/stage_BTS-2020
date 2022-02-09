@@ -1,0 +1,16 @@
+.calendrier
+{
+    text-decoration: none;
+}
+.calendrier table
+{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+}
+.calendrier table td
+{
+    border: 1px solid black;
+    text-align: center;
+    background-color: blanchedalmond;
+}

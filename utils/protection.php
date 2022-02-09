@@ -1,0 +1,1 @@
+<?php if (!isset($_SESSION['utilisateur'])) header("Location: index.php");?>
